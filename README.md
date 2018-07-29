@@ -20,6 +20,8 @@
 	http://chiuki.github.io/android-shaders-filters
 
 - drawonsteam
+
+- ArcChartView sample (https://github.com/imaNNeoFighT/arcchartview)
 	
 - CustomViewGroup
 	https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/android/widget/AbsoluteLayout.java
