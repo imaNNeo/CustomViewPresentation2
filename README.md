@@ -18,6 +18,8 @@
 
 - PorterDuff
 	http://chiuki.github.io/android-shaders-filters
+
+- drawonsteam
 	
 - CustomViewGroup
 	https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/android/widget/AbsoluteLayout.java
