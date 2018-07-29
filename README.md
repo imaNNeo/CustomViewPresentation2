@@ -1,14 +1,16 @@
 - slides
 
-- multi touch
-	https://developer.android.com/training/gestures/multi
+- multi touch (https://developer.android.com/training/gestures/multi)
 
-- after onMeaser , getMeasuredWith and getMeasuredHeight is available
-and after onLayout, getWidth and getHeight is accessible
+- save state of View OnSaveInstanceState() and OnRestoreInstanceState()
+
+- TicketView Sample (https://github.com/vipulasri/TicketView)
+
+- Custom EditText Sample (https://github.com/poovamraj/PinEditTextField)
+
+- RullerView Sample
 
 - SurfaceView, TextureView, GlSurfaceView
-
-- save state of View
 
 - TouchHelper
 	GestureDetector
