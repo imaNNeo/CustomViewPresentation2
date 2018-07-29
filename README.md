@@ -8,6 +8,8 @@
 	
 - save state of View OnSaveInstanceState() and OnRestoreInstanceState()
 
+- draw Drawable
+
 - TicketView Sample (https://github.com/vipulasri/TicketView)
 
 - PinEditText Sample (https://github.com/poovamraj/PinEditTextField)
